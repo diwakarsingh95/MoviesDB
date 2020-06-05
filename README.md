@@ -10,8 +10,8 @@ Built using HTML, CSS, JavaScript, Bootstrap, PHP, MySQL.
 git clone https://github.com/diwakarsingh95/MoviesDB.git
 ```
 3. Move the MoviesDB folder into htdocs folder of XAMPP
-  #### On Windows: ``` C:/xampp/htdocs/ ```
-  #### On Ubuntu: ``` /opt/lampp/htdocs/ ```
+  - On Windows: ``` C:/xampp/htdocs/ ```
+  - On Ubuntu: ``` /opt/lampp/htdocs/ ```
 4. Open the XAMPP control panel and start the Apache and MySQL server or on Ubuntu run this command:
 ```
 sudo /opt/lampp/lampp start
