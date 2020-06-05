@@ -16,4 +16,4 @@ git clone https://github.com/diwakarsingh95/MoviesDB.git
 ```
 sudo /opt/lampp/lampp start
 ```
-5. To run the appication, go to (http:localhost/MoviesDB)
+5. To run the appication, go to [http:localhost/MoviesDB]
